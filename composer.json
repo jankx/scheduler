@@ -1,5 +1,5 @@
 {
-    "name": "jankx/scheduler",
+    "name": "ramphor/scheduler",
     "description": "A robust scheduling library for use in WordPress",
     "license": "MIT",
     "authors": [
@@ -12,7 +12,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "Jankx\\Scheduler\\": "src/"
+            "Ramphor\\Scheduler\\": "src/"
         }
     }
 }
